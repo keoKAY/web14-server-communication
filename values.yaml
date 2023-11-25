@@ -6,7 +6,7 @@ replicaCount: 3
 image:
   repository: 69966/web14-server-communication
   pullPolicy: IfNotPresent
-  tag: "155"
+  tag: "154"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
